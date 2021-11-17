@@ -1,0 +1,52 @@
+#header{
+	text-align: center;
+}
+
+#catergories{
+	text-align: center;
+	font-size: 100pt;
+	font: 100% Times New Roman;
+	font-weight: normal;
+}
+
+#about{
+	margin-left: 70px;
+}
+
+#team{
+	margin-top: -25px;
+	margin-left: 70px;
+}
+
+#curtis{
+	font-size: 18pt;
+	margin-left: 70px;
+}
+
+#kelley{
+	font-size: 18pt;
+	margin-left: 70px;
+}
+
+#saswat{
+	font-size: 18pt;
+	margin-left: 70px;
+}
+
+#acurtis{
+	font-size: 13pt;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+#akelley{
+	font-size: 13pt;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+#asaswat{
+	font-size: 13pt;
+	margin-left: 70px;
+	margin-right: 70px;
+}
